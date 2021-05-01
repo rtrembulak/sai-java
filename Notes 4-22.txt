@@ -1,0 +1,14 @@
+https://docs.oracle.com/javase/tutorial/java/index.html
+
+Overloading is calling the same method but using different data types.
+
+https://jamboard.google.com/d/15MXPQmTfTXeOsjjbNgFjEx17c6oqV2gY59nJEgggHk4/viewer?f=4
+
+Why does overloading as a concept exist in Jave? What is it used for?
+Why does a public class have to be in its own file?
+Why does the java package need to be all lowercase?
+Why is interface required in Java?
+
+implementing contracts in java
+interfaces in Java
+Packages
