@@ -3,13 +3,13 @@ public class FizzBuzzLoop {
     public static void main(String [] args) {
         for (int i = 0; i <= 100; i++) {
             if (i % 2 == 0 && i % 3 == 0) { 
-                System.out.println("fizz");
+                System.out.println(i +" fizz");
             } 
             else if (i % 5 == 0 && i % 6 == 0) {
-                System.out.println("buzz");
+                System.out.println(i + " buzz");
             } 
             else {
-                System.out.println("No Match");
+                System.out.println(i + " No Match");
             }
         }
     }
